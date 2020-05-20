@@ -309,8 +309,11 @@ body {
 }
 
 .header-section__suptitle {
+  display: block;
   font-family: var(--third-font);
   font-size: 24px;
+  font-weight: 400;
+  text-transform: none;
   margin-bottom: 20px;
 }
 
